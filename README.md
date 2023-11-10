@@ -8,4 +8,13 @@ The Cipher Randomizer project is a tool designed to take input text, apply vario
 - Dynamic key generation based on the order of applied ciphers
 - Support for multiple cryptographic algorithms
 - Easy-to-use command-line interface
-- 
+
+
+## Supported Ciphers
+- Caesar Cipher (class: CaesarCipher)
+- Affine Cipher (class: AffineCipher)
+- Vigenère Cipher (class: VigenereCipher)
+- K-Reverse Cipher (class: KreverseCipher)
+- Vernam Cipher (class: VernamCipher)
+
+
